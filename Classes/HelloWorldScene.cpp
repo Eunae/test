@@ -14,6 +14,8 @@ Scene* HelloWorld::createScene()
     scene->addChild(layer);
 
     // return the scene
+    
+    //aaa
     return scene;
 }
 
